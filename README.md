@@ -14,7 +14,7 @@
 <img width="1023" alt="image" src="https://github.com/lalalag27/project/assets/119072843/0b88d1f4-6fec-4041-b098-ef036b20cac7">
 6.新增使用者帳號並執行
 <img width="1055" alt="image" src="https://github.com/lalalag27/project/assets/119072843/b23dfa79-cfc9-47c1-990f-447ed4181eb0">
-7.將sql檔案上傳到資料庫
+7.將sql檔案上傳到資料庫<br>
 8.在專案的終端機輸入
 ```
 npm i
